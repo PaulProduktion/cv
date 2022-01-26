@@ -155,6 +155,7 @@ a {
   opacity: 0;
   visibility: hidden;
 }
+
 .navbar-nav .nav-item a span::before {
   position: absolute;
   content: "";
